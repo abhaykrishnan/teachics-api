@@ -1,0 +1,105 @@
+[
+    {
+      "title": "Microprocessor Architecture and Programming",
+      "ppts": [
+        {
+          "name": "Module 1",
+          "link": "https://drive.google.com/file/d/1_q45fcseauIX3IXx0hqHAYOaZ8PY_o6Y/view"
+        },
+        {
+          "name": "Module 2",
+          "link": "https://drive.google.com/file/d/1z6ER-pdw7e1UL3M9gZXVFKYetByW6Pdo/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Principles of Software Engineering",
+      "ppts": [
+        {
+          "name": "Module 5 - Part 1",
+          "link": "https://drive.google.com/file/d/1hb1BD1dbh_YwRM51IKA5tnjIw51OMB9E/view?usp=sharing"
+        },
+        {
+          "name": "Module 5 - Part 2",
+          "link": "https://drive.google.com/file/d/1zf7Cs51W0dFmxNHMUxddeDApvo5Azrj6/view?usp=sharing"
+        },
+        {
+          "name": "Module 5 - Part 3",
+          "link": "https://drive.google.com/file/d/1FUoTvyBci8Dk_Z5U2NBx64Bpt5Tkonb_/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Android Programming",
+      "ppts": [
+        {
+          "name": "Module 1",
+          "link": "https://docs.google.com/presentation/d/1uyU2OKA1ELjM6p01KsnUIFgxw8C0LZH_e5dY8SM53m0/edit?usp=sharing"
+        },
+        {
+          "name": "Module 2",
+          "link": "https://docs.google.com/presentation/d/1SM3kvmHAyBGpYYzFkmJUBFZg4tUoFEYcmOe-5nJFyJg/edit?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Computer Organization and Architecture",
+      "ppts": [
+        {
+          "name": "Module 3 - Part 1",
+          "link": "https://docs.google.com/presentation/d/1A9lQXd2R3QDPnkKI2GQQXw5UqLJfyDKMl5AxbXnIyoI/edit?usp=sharing"
+        },
+        {
+          "name": "Module 3 - Part 2",
+          "link": "https://docs.google.com/presentation/d/1aBjcsVuit0rJUQwS8yZyC7gYZbxpSHSDK9YWs1wcCQM/edit?usp=sharing"
+        },{
+          "name": "Module 4 - Part 1",
+          "link": "https://docs.google.com/presentation/d/1c8Q_ClrI7wIk93fCxYKm8_aFthPCHCEo2HQPLtF0MB8/edit?usp=sharing"
+        },{
+          "name": "Module 4 - Part 2",
+          "link": "https://docs.google.com/presentation/d/1hzM6tCsXpGX8ZLtAw8_d_c_AAUfx6fWzt3RUglEtTpc/edit?usp=sharing"
+        },{
+          "name": "Module 4 - Part 3",
+          "link": "https://docs.google.com/presentation/d/1l140dAeylBbwPkjlzlffEtGtxyMwV8Kkeq0xcn9ZOfM/edit?usp=sharing"
+        },
+        {
+          "name": "Module 5 - Part 1",
+          "link": "https://docs.google.com/presentation/d/1G3TIn54N9tNCiJM7SZELqhLUqKU3JwZx6NfptjxouhA/edit?usp=sharing"
+        },
+        {
+          "name": "Module 5 - Part 2",
+          "link": "https://docs.google.com/presentation/d/1c8QGzxHncH_1TRYKtHfovS8MAh2-4KcSwsoxmI5vk78/edit?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Data Structures Using C",
+      "ppts": [
+        {
+          "name": "Module 4 - Part 1",
+          "link": "https://docs.google.com/presentation/d/1c-ukxbd7F1VaTSIaguYj4d24WNMD0hi3imuKiOCekE4/edit?usp=sharing"
+        },
+        {
+          "name": "Module 5 - Part 1",
+          "link": "https://docs.google.com/presentation/d/19FJ6LkSkhQTQDuWGWqLwBrIyny8soYOsspmiYhlUgLk/edit?usp=sharing"
+        },
+        {
+          "name": "Module 5 - Part 2",
+          "link": "https://docs.google.com/presentation/d/1BKXSDY5v9k-PmuwMv257rxP_hW1W9GkiccyJ2X_fNgc/edit?usp=sharing"
+        }
+      ]
+    },
+    {
+      "title": "Operating Systems",
+      "ppts": [
+        {
+          "name": "Module 1",
+          "link": "https://docs.google.com/presentation/d/1c-ukxbd7F1VaTSIaguYj4d24WNMD0hi3imuKiOCekE4/edit?usp=sharing"
+        },
+        {
+          "name": "Module 2",
+          "link": "https://docs.google.com/presentation/d/1BkD-daAbIU4ABD3aT8WLIm0eJBgmuj40hHwotz3oCtU/edit?usp=sharing"
+        }
+      ]
+    }
+  ]
