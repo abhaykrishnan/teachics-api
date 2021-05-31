@@ -2,7 +2,7 @@
   {
   "id": 1,
   "semester": 3,
-  "code": "BCS3B04",
+  "code": "BCS4B06",
   "category_id": 89,
   "title": {
     "rendered": "Data Structures Using C"
@@ -11,7 +11,7 @@
 {
   "id": 2,
   "semester": 6,
-  "code": "A12",
+  "code": "BCS6B15",
   "category_id": 92,
   "title": {
     "rendered": "Linux Shell Scripts"
