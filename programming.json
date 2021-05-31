@@ -1,16 +1,20 @@
 [
-    {
-    "id": 1,
-    "category_id": 78,
-    "title": {
-      "rendered": "Data Structure Using C"
-    }
-  },
   {
-    "id": 2,
-    "category_id": 76,
-    "title": {
-      "rendered": "Linux Shell Scripts"
-    }
+  "id": 1,
+  "semester": 3,
+  "code": "BCS3B04",
+  "category_id": 78,
+  "title": {
+    "rendered": "Data Structures Using C"
   }
+},
+{
+  "id": 2,
+  "semester": 3,
+  "code": "A12",
+  "category_id": 76,
+  "title": {
+    "rendered": "Linux Shell Scripts"
+  }
+}
 ]
