@@ -3,16 +3,16 @@
   "id": 1,
   "semester": 3,
   "code": "BCS3B04",
-  "category_id": 78,
+  "category_id": 89,
   "title": {
     "rendered": "Data Structures Using C"
   }
 },
 {
   "id": 2,
-  "semester": 3,
+  "semester": 6,
   "code": "A12",
-  "category_id": 76,
+  "category_id": 92,
   "title": {
     "rendered": "Linux Shell Scripts"
   }
