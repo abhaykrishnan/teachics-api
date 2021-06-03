@@ -1,0 +1,202 @@
+[
+     {
+        "id": 91,
+        "count": 1,
+        "description": "",
+        "link": "https://teachics.org/category/computer-fundamentals-html-notes/",
+        "name": "Computer Fundamentals and HTML",
+        "slug": "computer-fundamentals-html-notes",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/categories/91"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/categories"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/taxonomies/category"
+            }
+          ],
+          "wp:post_type": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/posts?categories=91"
+            }
+          ],
+          "curies": [
+            {
+              "name": "wp",
+              "href": "https://api.w.org/{rel}",
+              "templated": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 78,
+        "count": 12,
+        "description": "",
+        "link": "https://teachics.org/category/data-structures-ds-notes/",
+        "name": "Data Structures Using C",
+        "slug": "data-structures-ds-notes",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/categories/78"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/categories"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/taxonomies/category"
+            }
+          ],
+          "wp:post_type": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/posts?categories=78"
+            }
+          ],
+          "curies": [
+            {
+              "name": "wp",
+              "href": "https://api.w.org/{rel}",
+              "templated": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 77,
+        "count": 15,
+        "description": "",
+        "link": "https://teachics.org/category/coa-notes/",
+        "name": "Computer Organization And Architecture",
+        "slug": "coa-notes",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/categories/77"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/categories"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/taxonomies/category"
+            }
+          ],
+          "wp:post_type": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/posts?categories=77"
+            }
+          ],
+          "curies": [
+            {
+              "name": "wp",
+              "href": "https://api.w.org/{rel}",
+              "templated": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 42,
+        "count": 7,
+        "description": "",
+        "link": "https://teachics.org/category/software-engineering-se-notes/",
+        "name": "Principles of Software Engineering",
+        "slug": "software-engineering-se-notes",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/categories/42"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/categories"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/taxonomies/category"
+            }
+          ],
+          "wp:post_type": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/posts?categories=42"
+            }
+          ],
+          "curies": [
+            {
+              "name": "wp",
+              "href": "https://api.w.org/{rel}",
+              "templated": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 76,
+        "count": 25,
+        "description": "",
+        "link": "https://teachics.org/category/sensors-notes-lessons/",
+        "name": "Sensors and Transducers",
+        "slug": "sensors-notes-lessons",
+        "taxonomy": "category",
+        "parent": 0,
+        "meta": [],
+        "_links": {
+          "self": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/categories/76"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/categories"
+            }
+          ],
+          "about": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/taxonomies/category"
+            }
+          ],
+          "wp:post_type": [
+            {
+              "href": "https://teachics.org/wp-json/wp/v2/posts?categories=76"
+            }
+          ],
+          "curies": [
+            {
+              "name": "wp",
+              "href": "https://api.w.org/{rel}",
+              "templated": true
+            }
+          ]
+        }
+      }
+]
