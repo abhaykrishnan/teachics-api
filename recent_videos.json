@@ -2,41 +2,81 @@
     {
       "id": "UEwtWHpoZzU1cF9oUlo4MTU4QmhaX1otS1oyOXBycmVhZi41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
+        "title": "Instruction Codes | Computer Organization and Design",
+        "description": "This video explains about the structure of Instruction codes. It is the first video of the topic Computer Organization and Design.\n\ndownload notes:\nhttps://drive.google.com/file/d/1Eqb8cnwfb9INeGPie9d8x7zSxxgOqLlU/view?usp=sharing\n\n\n#computersciencemalayalam #computergraphicsmalayalam #computersciencehub #COA #instructioncodes",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NGqJffcnaaQ/mqdefault.jpg"
+          }
+        },
         "resourceId": {
           "videoId": "NGqJffcnaaQ"
-        }
+        },
+        "videoOwnerChannelTitle": "COMPUTER SCIENCE HUB"
       }
     },
     {
       "id": "UEwtWHpoZzU1cF9oUlo4MTU4QmhaX1otS1oyOXBycmVhZi4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
+        "title": "Stored Program Organization [Malayalam] | COA",
+        "description": "This is a very simple video explain the topic stored program organization in Malayalam.This topic is important in Computer Organization and Architecture\nfor notes :\nhttps://drive.google.com/file/d/1cbGkeszyuqho1xF_2Wwupvvo52uc4WKC/view?usp=sharing\n #COAmalayalam #computersciencemalayalam #storedprogramorganization",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6uha9XYcHpU/mqdefault.jpg"
+          }
+        },
         "resourceId": {
           "videoId": "6uha9XYcHpU"
-        }
+        },
+        "videoOwnerChannelTitle": "COMPUTER SCIENCE HUB"
       }
     },
     {
       "id": "UEwtWHpoZzU1cF9oUlo4MTU4QmhaX1otS1oyOXBycmVhZi4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
+        "title": "Direct Addressing and Indirect Addressing Modes Malayalam| computer Organization and Architecture",
+        "description": "This video explains about Direct ,Indirect and Immediate addressing modes in detail\nfor notes download :\nhttps://drive.google.com/file/d/1Qp92MOQeo5YIUVXiJdrOB_6PWMjH0H6n/view?usp=sharing\n\n#COAmalayalam #computersciencemalayalam #addressingmodes",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3iY_QHHJT4Y/mqdefault.jpg"
+          }
+        },
         "resourceId": {
           "videoId": "3iY_QHHJT4Y"
-        }
+        },
+        "videoOwnerChannelTitle": "COMPUTER SCIENCE HUB"
       }
     },
     {
       "id": "UEwtWHpoZzU1cF9oUlo4MTU4QmhaX1otS1oyOXBycmVhZi4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
+        "title": "Computer Registers and Common Bus systems Malayalam | COA Malayalam",
+        "description": "This video describes in detail about computer registers .It explains the 8 registers of basic computer and also describes the common bus system.\n\ndownload notes:\nhttps://drive.google.com/file/d/1renA839CLN_-L8seMkn9jTufZSy5kiz0/view?usp=sharing\nFor notes Please visit\n\nhttps://csdegreehub.blogspot.com/2020/04/computer-registers-bus-system.html\n\n\n#COAmalayalam #computersciencemalayalam #computerregisters",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zIninwy1DNM/mqdefault.jpg"
+          }
+        },
         "resourceId": {
           "videoId": "zIninwy1DNM"
-        }
+        },
+        "videoOwnerChannelTitle": "COMPUTER SCIENCE HUB"
       }
     },
     {
       "id": "UEwtWHpoZzU1cF9oUlo4MTU4QmhaX1otS1oyOXBycmVhZi41QTY1Q0UxMTVCODczNThE",
       "snippet": {
+        "title": "Hardwired Control Unit Malayalam |COA malayalam",
+        "description": "This Video Explains about Hardwired Control Unit in detail with diagram and working\n\ndownload notes\nhttps://drive.google.com/file/d/10TMwVRSUxhPBR4bgtGDAzJ9OTnmA7Nqx/view?usp=sharing\n\nfor notes visit  https://csdegreehub.blogspot.com/2020/04/hardwired-control-unit.html\n\n\n#computersciencemalayalam #COAmalayalam #hardwiredcontrol",
+        "thumbnails": {
+          "medium": {
+            "url": "https://i.ytimg.com/vi/icTtLQxFOQQ/mqdefault.jpg"
+          }
+        },
         "resourceId": {
           "videoId": "icTtLQxFOQQ"
-        }
+        },
+        "videoOwnerChannelTitle": "COMPUTER SCIENCE HUB"
       }
     }
   ]
