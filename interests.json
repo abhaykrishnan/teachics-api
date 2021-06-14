@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "category_id": 91,
+    "title": "Computer Fundamentals and HTML"
+  },
+  {
+    "id": 2,
+    "category_id": -1,
+    "title": "Programming in C"
+  },
+  {
+    "id": 3,
+    "category_id": 76,
+    "title": "Sensors & Transducers"
+  },
+  {
+    "id": 4,
+    "category_id": -1,
+    "title": "Python Programming"
+  },
+  {
+    "id": 5,
+    "category_id": 78,
+    "title":"Data Structures Using C"
+  },
+  {
+    "id": 6,
+    "category_id": -1,
+    "title":"Microprocessors"
+  },
+  {
+    "id": 7,
+    "category_id": -1,
+    "title": "Data Communication & Optical Fibres"
+  },
+  {
+    "id": 8,
+    "category_id": -1,
+    "title": "Database Management System"
+  },
+  
+  {
+    "id": 9,
+    "category_id": 77,
+    "title": "Computer Organization And Architecture"
+  },
+  {
+    "id": 10,
+    "category_id": -1,
+    "title": "Java Programming"
+  },
+  {
+    "id": 11,
+    "category_id": -1,
+    "title":  "Web Programming Using PHP"
+  },
+  {
+    "id": 12,
+    "category_id": -1,
+    "title":  "Principles Of Software Engineering"
+  },
+  {
+    "id": 13,
+    "category_id": -1,
+    "title":  "Android Programming"
+  },
+  {
+    "id": 14,
+    "category_id": -1,
+    "title":  "Operating System"
+  },
+  {
+    "id": 15,
+    "category_id": -1,
+    "title":  "Computer Networks"
+  }
+]
