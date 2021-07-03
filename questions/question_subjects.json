@@ -1,17 +1,14 @@
 [
   {
-    "id": 1,
-    "topic": "questions/androidprogramming/index.json",
-    "title": "Android Programming"
+    "link": "questions/androidprogramming/index.json",
+    "name": "Android Programming"
   },
   {
-    "id": 2,
-    "topic": "questions/operatingsystem/index.json",
-    "title": "Operating System"
+    "link": "questions/operatingsystem/index.json",
+    "name": "Operating System"
   },
   {
-    "id": 3,
-    "topic": "questions/networks/index.json",
-    "title": "Computer Networks"
+    "link": "questions/networks/index.json",
+    "name": "Computer Networks"
   }
 ]
