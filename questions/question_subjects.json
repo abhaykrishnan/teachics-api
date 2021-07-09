@@ -1,14 +1,50 @@
 [
   {
-    "link": "questions/androidprogramming/index.json",
+    "link": "1af86Qzg0fKVqwCQ1c34Qzl40hm4CmgNV",
     "name": "Android Programming"
   },
   {
-    "link": "questions/operatingsystem/index.json",
+    "link": "1wP3SuGOZ9rxKRqxObhIpP0IQpL4AZoU2",
+    "name": "Computer Fundamentals and HTML"
+  },
+  {
+    "link": "1xXj3Qa_01lg9_z6Frnn1uIvminUShTH8",
+    "name": "Computer Graphics"
+  },
+  {
+    "link": "1z3XxvPmSYctrYokK_rk2Fczp4wZXrhqP",
+    "name": "Computer Networks "
+  },
+  {
+    "link": "1DE78zmeO5MmoUxr0KW9a_wWy0QeleBsd",
+    "name": "Computer Organization and Architecture "
+  },
+  {
+    "link": "1wIXHTgEBsFW2JNoyRbXpPpbUKMiQo3W7",
+    "name": "Data STructures"
+  },
+  {
+    "link": "1QaN5txBog6GyqSmiqGPHXwPa2Rx0aPBw",
+    "name": "Database Management System"
+  },
+  {
+    "link": "1QaN5txBog6GyqSmiqGPHXwPa2Rx0aPBw",
+    "name": "Java Programming"
+  },
+  {
+    "link": "1fA6qWJyqsy_hrQ_1O2CN5lDBWOAdDDKT",
     "name": "Operating System"
   },
   {
-    "link": "questions/networks/index.json",
-    "name": "Computer Networks "
+    "link": "1abB0i3qBdcdgxlb-wdnZLgQaiMUGpb7p",
+    "name": "Problem Solving Using C"
+  },
+  {
+    "link": "1lgyeKM6T3-azw8vCGb4MFw8j8fBwF3J_",
+    "name": "Software Engineering"
+  },
+  {
+    "link": "1xKkUdIrRtKYVWHfJJ3hdErPVVkQ2DiYo",
+    "name": "Web Programming Using C"
   }
 ]
