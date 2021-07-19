@@ -1,5 +1,14 @@
 [
   {
+    "id": 6,
+    "semester": 3,
+    "code": "BCS3B04",
+    "category_id": 91,
+    "title": {
+      "rendered": "Computer Fundamentals and HTML"
+    }
+  },
+  {
     "id": 1,
     "semester": 3,
     "code": "BCS3B04",
@@ -9,21 +18,21 @@
     }
   },
   {
-    "id": 5,
-    "semester": 4,
-    "code": "A14",
-    "category_id": 102,
-    "title": {
-      "rendered": "Microprocessor Architecture & Programming"
-    }
-  },
-  {
     "id": 2,
     "semester": 3,
     "code": "A12",
     "category_id": 76,
     "title": {
       "rendered": "Sensors & Transducers"
+    }
+  },
+  {
+    "id": 5,
+    "semester": 4,
+    "code": "A14",
+    "category_id": 102,
+    "title": {
+      "rendered": "Microprocessor Architecture & Programming"
     }
   },
   {
@@ -42,6 +51,15 @@
     "category_id": 77,
     "title": {
       "rendered": "Computer Organization And Architecture"
+    }
+  },
+  {
+    "id": 7,
+    "semester": 6,
+    "code": "A12",
+    "category_id": 96,
+    "title": {
+      "rendered": "Operating Systems"
     }
   }
 ]
