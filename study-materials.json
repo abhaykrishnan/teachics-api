@@ -1,11 +1,20 @@
 [
-    {
+  {
     "id": 1,
     "semester": 3,
     "code": "BCS3B04",
     "category_id": 78,
     "title": {
       "rendered": "Data Structures Using C"
+    }
+  },
+  {
+    "id": 5,
+    "semester": 4,
+    "code": "A14",
+    "category_id": 102,
+    "title": {
+      "rendered": "Microprocessor Architecture & Programming"
     }
   },
   {
