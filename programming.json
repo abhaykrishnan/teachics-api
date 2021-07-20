@@ -16,5 +16,14 @@
   "title": {
     "rendered": "Linux Shell Scripts"
   }
+},
+{
+  "id": 3,
+  "semester": 2,
+  "code": "BCS2B03",
+  "category_id": 103,
+  "title": {
+    "rendered": "Programming in C"
+  }
 }
 ]
