@@ -9,6 +9,15 @@
     }
   },
   {
+    "id": 7,
+    "semester": 2,
+    "code": "BCS2B04",
+    "category_id": 91,
+    "title": {
+      "rendered": "Problem Solving Using C"
+    }
+  },
+  {
     "id": 1,
     "semester": 3,
     "code": "BCS3B04",
