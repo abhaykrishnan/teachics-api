@@ -25,5 +25,32 @@
   "title": {
     "rendered": "Programming in C"
   }
+},
+{
+  "id": 3,
+  "semester": 5,
+  "code": "BCS2B03",
+  "category_id": 115,
+  "title": {
+    "rendered": "Java Programming"
+  }
+},
+{
+  "id": 3,
+  "semester": 5,
+  "code": "BCS2B03",
+  "category_id": 113,
+  "title": {
+    "rendered": "JavaScript"
+  }
+},
+{
+  "id": 3,
+  "semester": 5,
+  "code": "BCS2B03",
+  "category_id": 114,
+  "title": {
+    "rendered": "PHP Web Programming"
+  }
 }
 ]
