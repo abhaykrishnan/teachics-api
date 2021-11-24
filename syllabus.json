@@ -34,5 +34,23 @@
                 ]
             ]
         }
+    },
+    {
+        "id": 3,
+        "link": "https:\/\/calicut-university.teachics.org\/wp-content\/uploads\/2021\/10\/BCA_2019_Syllabus_Calicut_University_TEACHICS.pdf",
+        "title": {
+            "rendered": "BCA - 2017 Admission"
+        },
+        "_embedded": {
+            "wp:term": [
+                [
+                    {
+                        "id": 76,
+                        "name": "Calicut University - Syllabus",
+                        "taxonomy": "category"
+                    }
+                ]
+            ]
+        }
     }
 ]
