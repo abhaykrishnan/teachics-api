@@ -1,9 +1,5 @@
 [
   {
-    "link": "1nsQiHXRRYxrtOhH0pRU_Le4h-zytSF0y",
-    "name": "Model - Sensors & Transducers"
-  },
-  {
     "link": "1af86Qzg0fKVqwCQ1c34Qzl40hm4CmgNV",
     "name": "Android Programming"
   },
@@ -25,7 +21,7 @@
   },
   {
     "link": "1wIXHTgEBsFW2JNoyRbXpPpbUKMiQo3W7",
-    "name": "Data STructures"
+    "name": "Data Structures"
   },
   {
     "link": "1QaN5txBog6GyqSmiqGPHXwPa2Rx0aPBw",
@@ -46,6 +42,10 @@
   {
     "link": "1lgyeKM6T3-azw8vCGb4MFw8j8fBwF3J_",
     "name": "Software Engineering"
+  },
+  {
+    "link": "1nsQiHXRRYxrtOhH0pRU_Le4h-zytSF0y",
+    "name": "Sensors & Transducers"
   },
   {
     "link": "1xKkUdIrRtKYVWHfJJ3hdErPVVkQ2DiYo",
